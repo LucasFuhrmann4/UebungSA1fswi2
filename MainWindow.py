@@ -10,3 +10,6 @@ class MainWindow(QMainWindow):
         central_widget = CentralWidget(self)
 
         self.setCentralWidget(central_widget)
+
+        self.setCentralWidget(central_widget)
+        self.setWindowTitle("1. Schulaufgabe aus dem fach Programmieren ")
